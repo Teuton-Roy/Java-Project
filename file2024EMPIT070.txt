@@ -1,0 +1,8 @@
+
+Employee ID:2024EMPIT070
+Employee Name     :Teuton Roy
+Father's Name     :Late Jagadish Ch Roy
+Employee Contact  :9775795017
+Email Information :teuton.hdb@gmail.com
+Employee position :Backend Developer
+Employee Salary   :45000.00
